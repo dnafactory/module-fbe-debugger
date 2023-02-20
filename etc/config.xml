@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
+    <default>
+        <facebook>
+            <debug>
+                <active>0</active>
+                <active_for_add_to_cart>0</active_for_add_to_cart>
+                <active_for_initiate_checkout>0</active_for_initiate_checkout>
+                <active_for_purchase>0</active_for_purchase>
+                <active_for_search>0</active_for_search>
+                <active_for_view_category>0</active_for_view_category>
+                <active_for_view_content>0</active_for_view_content>
+            </debug>
+        </facebook>
+    </default>
+</config>
